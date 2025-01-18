@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Yaroslav-Dev007/Yaroslav-Dev007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 With 5+ years of web development experience and Python expertise.
+🌐 Specializing in full-stack, CMS development, and web scraping solutions.
+🔥 Passion, proactivity, and quality drive every project undertaken.
+🛠️ A strong focus on technical aspects and efficient results.
+⏰ Deadlines are met without compromising quality or precision.
+💬 Clear communication and collaboration ensure the best project outcomes.
+✨ Transforming ideas into reality with attention to detail and care.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🟢 Frontend Dev : React.js, Node.js, Vue.js, Angular.js & HTML/CSS/JavaScirpt
+🟢 Backend Dev : Python, PHP, Node.js, Django, Flask
+🟢 CMS Dev : Headless CMS, Prismic, Wordpress, Shopify
+🟢 Web Scraping : Scrapy, BeautifulSoup, Selenium
+🟢 APIs : GraphQL, Integration, AI Bot Dev
+🟢 AI/ML : TensorFlow, Keras, NLP
